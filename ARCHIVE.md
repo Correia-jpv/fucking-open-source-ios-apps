@@ -216,6 +216,7 @@ This is an archive of the [main list](https://github.com/dkhamsing/open-source-i
 - [ExposureNotificationApp](https://developer.apple.com/documentation/exposurenotification/building-an-app-to-notify-users-of-covid-19-exposure)
 - [f.lux](https://github.com/jefferyleo/f.lux)
 - [F8](https://github.com/fbsamples/f8app)
+- [Face Landmarks Detection](https://github.com/mattlawer/FaceLandmarksDetection)
 - [Facebook Login](https://github.com/brentvatne/react-native-login)
 - [Facebook-Pop-Introduction](https://github.com/thomasdegry/Facebook-Pop-Introduction)
 - [Facemotion](https://github.com/remirobert/Facemotion)
