@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1648-green.svg) ![](https://img.shields.io/badge/Updated-April%20%201,%202026-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1648-green.svg) ![](https://img.shields.io/badge/Updated-April%20%206,%202026-lightgrey.svg)
 
 Jump to
 
@@ -2692,10 +2692,6 @@ https://newsapi.org/ — [back to top](#readme)
   - `swift` `swiftui` 
 - [Exploring SwiftUI Sample Apps by Apple](https://developer.apple.com/tutorials/sample-apps)
   - `swift` 
-- [Face Landmarks Detection](https://github.com/mattlawer/FaceLandmarksDetection): Find facial features such as face contour, eyes, mouth and nose in an image
-  -  <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/9e0ac896-083f-417f-acf5-98db8a903bb9'>`Screenshot 1`</a> 
-  -  `2018` `swift` `vision` 
-  -  ☆`151` 
 - [Hello World](https://developer.apple.com/documentation/visionOS/World): Use windows, volumes, and immersive spaces to teach people about the Earth - Sample code by Apple
   - `swift` `xcode15` `visionos` `visionos1` 
 - [Homescreen Quick Actions](https://github.com/StewartLynch/Homescreen-Quick-Actions)
