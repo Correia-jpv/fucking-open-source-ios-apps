@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1648-green.svg) ![](https://img.shields.io/badge/Updated-April%20%206,%202026-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1648-green.svg) ![](https://img.shields.io/badge/Updated-April%20%207,%202026-lightgrey.svg)
 
 Jump to
 
@@ -3597,10 +3597,6 @@ https://flutter.dev — [back to top](#readme)
 - [Deer](https://github.com/aleksanderwozniak/deer): Minimalist Flutter Todo App, built using BLoC pattern
   -  `2020` `flutter` `dart` 
   -  ☆`460` 
-- [Eros-FE](https://github.com/3003h/Eros-FE): Unofficial E-Hentai viewer
-  -  <a href='https://raw.githubusercontent.com/3003h/Eros-FE/master/screenshot/gallery1.png'>`Screenshot 1`</a> 
-  -  `2025` `flutter` `dart` `adult` 
-  -  ☆`3381` 
 - [Find Seat](https://github.com/rwema3/FindSeat-App): Find a seat at the movies
   -  <a href='https://github.com/rwema3/FindSeat-App/blob/main/images/Findseat.png?raw=true'>`Screenshot 1`</a> 
   -  `2023` `flutter` 
