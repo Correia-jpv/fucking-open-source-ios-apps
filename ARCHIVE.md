@@ -207,6 +207,7 @@ This is an archive of the [main list](https://github.com/dkhamsing/open-source-i
 - [EmotionNote Diary](https://github.com/Yogayu/EmotionNote)
 - [Encryptr](https://github.com/SpiderOak/Encryptr)
 - [Endless Browser](https://github.com/jcs/endless)
+- [Eros-FE](https://github.com/3003h/Eros-FE)
 - [ESCapey](https://github.com/brianmichel/ESCapey)
 - [EU VAT Number - VIES Freelance](https://github.com/opensourceios/VIES)
 - [EventBlankApp](https://github.com/icanzilb/EventBlankApp)
