@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1648-green.svg) ![](https://img.shields.io/badge/Updated-April%20%207,%202026-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1648-green.svg) ![](https://img.shields.io/badge/Updated-April%20%208,%202026-lightgrey.svg)
 
 Jump to
 
@@ -3450,11 +3450,6 @@ https://joinmastodon.org — [back to top](#readme)
   -  <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/4237eb9f-6d02-4227-abe0-c2867cf8d09b'>`Screenshot 1`</a> 
   -  `2022` `swift` 
   -  ☆`49` 
-- [Space UI](https://github.com/256Arts/Space-UI): Generate and access great, realistic looking sci-fi user interfaces for use in TV and film production
-  - <a href=https://www.256arts.com/spaceui/>`https://www.256arts.com/spaceui/`</a>
-  - [` App Store`](https://apps.apple.com/app/space-ui/id1494402514) <a href='https://is2-ssl.mzstatic.com/image/thumb/PurpleSource114/v4/d0/b1/7d/d0b17dc2-f840-5d32-69f3-6b0cf223addc/7ccac1f9-433e-4cad-8e7c-91b71f9ff84e_Phone.png/460x0w.webp'>`Screenshot 1`</a> 
-  -  `2025` `swift` `swiftui` 
-  -  ☆`6` 
 - [StoicQuotes](https://github.com/il1ane/StoicQuotes)
   -  `2021` `swift` 
   -  ☆`1` 
