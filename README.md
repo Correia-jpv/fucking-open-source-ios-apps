@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1648-green.svg) ![](https://img.shields.io/badge/Updated-April%20%209,%202026-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1648-green.svg) ![](https://img.shields.io/badge/Updated-April%2010,%202026-lightgrey.svg)
 
 Jump to
 
@@ -299,8 +299,7 @@ Jump to
 [back to top](#readme) 
  
 
-- [Chrome](https://chromium.googlesource.com/chromium/src/ios/)
-  - <a href=https://blog.chromium.org/2017/01/open-sourcing-chrome-on-ios.html>`https://blog.chromium.org/2017/01/open-sourcing-chrome-on-ios.html`</a>
+- [Chrome](https://github.com/chromium/chromium)
   -  <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple113/v4/15/4d/26/154d2610-1d6e-ed2e-7a7a-698f98e466c1/mzl.fuawsxsw.png/626x0w.jpg'>`Screenshot 1`</a>  <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple123/v4/69/51/f2/6951f239-8529-90e5-3b24-0b8ccae172e3/mzl.qdavkgej.png/626x0w.jpg'>`Screenshot 2`</a>  <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple113/v4/0a/f9/84/0af984c6-83d0-270a-d062-5a16fd16acfb/mzl.ykkkwqij.png/626x0w.jpg'>`Screenshot 3`</a> 
   - `objective-c++` 
 - [Firefox](https://github.com/mozilla-mobile/firefox-ios): Official Firefox app
@@ -2524,8 +2523,7 @@ https://newsapi.org/ — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/app/bluesky-social/id6444370199) <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/8a73b9fb-4708-4ce5-b241-bb8da41feebd'>`Screenshot 1`</a> 
   -  `2026` `typescript` `react-native` 
   -  ☆`17813` 
-- [Chrome](https://chromium.googlesource.com/chromium/src/ios/)
-  - <a href=https://blog.chromium.org/2017/01/open-sourcing-chrome-on-ios.html>`https://blog.chromium.org/2017/01/open-sourcing-chrome-on-ios.html`</a>
+- [Chrome](https://github.com/chromium/chromium)
   -  <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple113/v4/15/4d/26/154d2610-1d6e-ed2e-7a7a-698f98e466c1/mzl.fuawsxsw.png/626x0w.jpg'>`Screenshot 1`</a>  <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple123/v4/69/51/f2/6951f239-8529-90e5-3b24-0b8ccae172e3/mzl.qdavkgej.png/626x0w.jpg'>`Screenshot 2`</a>  <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple113/v4/0a/f9/84/0af984c6-83d0-270a-d062-5a16fd16acfb/mzl.ykkkwqij.png/626x0w.jpg'>`Screenshot 3`</a> 
   - `objective-c++` 
 - [DuckDuckGo browser](https://github.com/duckduckgo/apple-browsers)
