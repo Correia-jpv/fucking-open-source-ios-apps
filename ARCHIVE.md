@@ -715,6 +715,7 @@ This is an archive of the [main list](https://github.com/dkhamsing/open-source-i
 - [Voice Memo](https://github.com/HassanElDesouky/VoiceMemosClone)
 - [VoiceMemos](https://github.com/MoZhouqi/VoiceMemos)
 - [VPN On](https://github.com/lexrus/VPNOn)
+- [Wallabag](https://github.com/wallabag/ios-app)
 - [WaniKani](https://github.com/haawa799/-WaniKani2)
 - [warpedAR](https://github.com/Trevorrwarduk/warpedAR-Open-Source)
 - [Watch Clicker Presentation](https://github.com/ezefranca/watchpresenter)
