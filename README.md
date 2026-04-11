@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1648-green.svg) ![](https://img.shields.io/badge/Updated-April%2010,%202026-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1648-green.svg) ![](https://img.shields.io/badge/Updated-April%2011,%202026-lightgrey.svg)
 
 Jump to
 
@@ -1980,10 +1980,6 @@ Image, video, audio, reading — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/app/readest-ebook-reader/id6738622779) <a href='https://github.com/user-attachments/assets/c6de1b0e-8a49-4ad8-a72e-b04e7e7b9917'>`Screenshot 1`</a> 
   -  `2026` `react-native` 
   -  ☆`19047` 
-- [Wallabag](https://github.com/wallabag/ios-app): A self-hosted read-it-later app
-  - [` App Store`](https://apps.apple.com/app/wallabag-2-official/id1170800946) <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/6ee36d3c-1dbd-4b1d-9a39-0070fd5e0681'>`Screenshot 1`</a> 
-  -  `2026` `swift` 
-  -  ☆`208` 
 - [whathaveiread](https://github.com/bcye/whathaveiread): Keep track of all books you've read and keep a short summary about them
   -  `2020` `swift` `core-data` 
   -  ☆`12` 
