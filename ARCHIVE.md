@@ -529,6 +529,7 @@ This is an archive of the [main list](https://github.com/dkhamsing/open-source-i
 - [reddift](https://github.com/sonsongithub/reddift)
 - [Reddit](https://github.com/amitburst/reddit-demo)
 - [RedditWatch](https://github.com/opensourceios/RedditWatch)
+- [Reminders](https://github.com/tiagomartinho/Reminders)
 - [Remote](https://github.com/michaelvillar/remote)
 - [Repo](https://github.com/ricburton/Repo)
 - [Retriever](https://github.com/opensourceios/Retriever)
