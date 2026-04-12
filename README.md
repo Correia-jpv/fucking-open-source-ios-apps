@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1648-green.svg) ![](https://img.shields.io/badge/Updated-April%2011,%202026-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1648-green.svg) ![](https://img.shields.io/badge/Updated-April%2012,%202026-lightgrey.svg)
 
 Jump to
 
@@ -2739,10 +2739,6 @@ https://newsapi.org/ — [back to top](#readme)
   - <a href=https://www.objc.io/books/app-architecture/>`https://www.objc.io/books/app-architecture/`</a>
   -  `2024` `swift` 
   -  ☆`2060` 
-- [Reminders](https://github.com/tiagomartinho/Reminders): An application to demonstrate how to implement a Clean Architecture
-  -  <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/8d7407ba-2d79-4e06-82e0-6a7f4e4285e5'>`Screenshot 1`</a> 
-  -  `2018` `swift` 
-  -  ☆`317` 
 - [Restaurant Viewing](https://github.com/gtokman/Restaurant-Viewing-App)
   -  <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/2e65417a-339d-4281-a5f1-6db84ea879a2'>`Screenshot 1`</a> 
   -  `2019` `swift` `alamofire` `moya` `corelocation` 
