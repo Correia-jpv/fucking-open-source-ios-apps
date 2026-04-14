@@ -385,6 +385,7 @@ This is an archive of the [main list](https://github.com/dkhamsing/open-source-i
 - [MiniKeePass](https://github.com/MiniKeePass/MiniKeePass)
 - [Mission999](https://github.com/whunmr/Mission999)
 - [MobileTerminal](https://github.com/steventroughtonsmith/MobileTerminal)
+- [Mojilist](https://github.com/thiagoricieri/Mojilist)
 - [Molecules](https://www.sunsetlakesoftware.com/molecules)
 - [Monotone Delay](https://github.com/jkandzi/Monotone-Delay)
 - [Morse](https://github.com/ijoshsmith/swift-morse-code)
