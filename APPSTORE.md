@@ -1267,6 +1267,10 @@ Mostly using https://giphy.com/ — [back to top](#readme)
 https://news.ycombinator.com/ — [back to top](#readme) 
  
 
+- [Gem for Hacker News](https://github.com/Livinglist/Gem)
+  - [` App Store`](https://apps.apple.com/app/z-combinator-for-hacker-news/id1638242818) <a href='https://github.com/Livinglist/Gem/blob/main/Resources/Screenshots/iphone-1.png?raw=true'>`Screenshot 1`</a>  <a href='https://github.com/Livinglist/Gem/blob/main/Resources/Screenshots/iphone-2.png?raw=true'>`Screenshot 2`</a>  <a href='https://github.com/Livinglist/Gem/blob/main/Resources/Screenshots/iphone-3.png?raw=true'>`Screenshot 3`</a>  <a href='https://github.com/Livinglist/Gem/blob/main/Resources/Screenshots/iphone-6.png?raw=true'>`Screenshot 4`</a> 
+  -  `2024` `swift` `swiftui` 
+  -  ☆`78` 
 - [Hackers](https://github.com/weiran/Hackers)
   - [` App Store`](https://apps.apple.com/app/hackers-hacker-news-reading/id603503901) <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple115/v4/14/98/59/149859fe-f4e3-0a12-d7fb-2d3383efdf45/mzl.ebnguksi.png/460x0w.jpg'>`Screenshot 1`</a> 
   -  `2026` `swift` 
@@ -1283,10 +1287,6 @@ https://news.ycombinator.com/ — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/app/simple-reader-free-open-source/id1000995253) <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple118/v4/c7/31/95/c7319576-6210-9a93-8c03-5a84bc4626f3/mzl.unluhpnm.png/460x0w.jpg'>`Screenshot 1`</a>  <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple128/v4/b2/1b/56/b21b5672-08df-a48b-5c4b-43df00cabd08/mzl.dfznlxwe.png/460x0w.jpg'>`Screenshot 2`</a>  <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple128/v4/5d/ee/b8/5deeb8e3-0c14-793e-ba28-7a7591cb1a0f/mzl.okdygwvb.png/460x0w.jpg'>`Screenshot 3`</a> 
   -  `2018` `objc` 
   -  ☆`258` 
-- [Z Combinator for Hacker News](https://github.com/Livinglist/ZCombinator)
-  - [` App Store`](https://apps.apple.com/app/z-combinator-for-hacker-news/id1638242818) <a href='https://github.com/Livinglist/ZCombinator/blob/main/Resources/Screenshots/iphone-1.png'>`Screenshot 1`</a>  <a href='https://github.com/Livinglist/ZCombinator/blob/main/Resources/Screenshots/iphone-2.png'>`Screenshot 2`</a>  <a href='https://github.com/Livinglist/ZCombinator/blob/main/Resources/Screenshots/iphone-3.png'>`Screenshot 3`</a>  <a href='https://github.com/Livinglist/ZCombinator/blob/main/Resources/Screenshots/iphone-6.png'>`Screenshot 4`</a> 
-  -  `2024` `swift` `swiftui` 
-  -  ☆`78` 
 ### News API 
  
 https://newsapi.org/ — [back to top](#readme) 
@@ -2065,6 +2065,10 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/app/asl-fingerspelling-practice/id1503242863) <a href='https://raw.githubusercontent.com/sloria/Fingerspelling-iOS/master/media/screenshot.png'>`Screenshot 1`</a> 
   -  `2022` `swift` `swiftui` `combine` 
   -  ☆`24` 
+- [Gem for Hacker News](https://github.com/Livinglist/Gem)
+  - [` App Store`](https://apps.apple.com/app/z-combinator-for-hacker-news/id1638242818) <a href='https://github.com/Livinglist/Gem/blob/main/Resources/Screenshots/iphone-1.png?raw=true'>`Screenshot 1`</a>  <a href='https://github.com/Livinglist/Gem/blob/main/Resources/Screenshots/iphone-2.png?raw=true'>`Screenshot 2`</a>  <a href='https://github.com/Livinglist/Gem/blob/main/Resources/Screenshots/iphone-3.png?raw=true'>`Screenshot 3`</a>  <a href='https://github.com/Livinglist/Gem/blob/main/Resources/Screenshots/iphone-6.png?raw=true'>`Screenshot 4`</a> 
+  -  `2024` `swift` `swiftui` 
+  -  ☆`78` 
 - [GradeCalc - GPA Calculator](https://github.com/marlon360/grade-calc): Keep track of your GPA
   - [` App Store`](https://apps.apple.com/app/gradecalc-gpa-calculator/id1502912052) <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/61/9f/db/619fdbda-62aa-375b-0439-ae7b4d78e772/pr_source.png/460x0w.png'>`Screenshot 1`</a>  <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple123/v4/9b/8e/39/9b8e3998-3d53-0879-8862-416b6e29dea1/pr_source.png/460x0w.png'>`Screenshot 2`</a>  <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple113/v4/42/36/b3/4236b384-f641-3934-6272-a7fb3c61463c/pr_source.png/460x0w.png'>`Screenshot 3`</a> 
   -  `2022` `swift` 
@@ -2114,10 +2118,6 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/app/xkcdy/id1520259318) <a href='https://user-images.githubusercontent.com/4723115/128615800-e136ba1b-6c14-4aae-ac0e-59fa9b382b4b.png'>`Screenshot 1`</a> 
   -  `2024` `iphone` `ipad` 
   -  ☆`44` 
-- [Z Combinator for Hacker News](https://github.com/Livinglist/ZCombinator)
-  - [` App Store`](https://apps.apple.com/app/z-combinator-for-hacker-news/id1638242818) <a href='https://github.com/Livinglist/ZCombinator/blob/main/Resources/Screenshots/iphone-1.png'>`Screenshot 1`</a>  <a href='https://github.com/Livinglist/ZCombinator/blob/main/Resources/Screenshots/iphone-2.png'>`Screenshot 2`</a>  <a href='https://github.com/Livinglist/ZCombinator/blob/main/Resources/Screenshots/iphone-3.png'>`Screenshot 3`</a>  <a href='https://github.com/Livinglist/ZCombinator/blob/main/Resources/Screenshots/iphone-6.png'>`Screenshot 4`</a> 
-  -  `2024` `swift` `swiftui` 
-  -  ☆`78` 
 ### VIPER 
  
 https://www.objc.io/issues/13-architecture/viper/ — [back to top](#readme) 
