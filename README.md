@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1648-green.svg) ![](https://img.shields.io/badge/Updated-April%2014,%202026-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1648-green.svg) ![](https://img.shields.io/badge/Updated-April%2015,%202026-lightgrey.svg)
 
 Jump to
 
@@ -2402,6 +2402,10 @@ https://news.ycombinator.com/ — [back to top](#readme)
 - [Emerge Tools Hacker News](https://github.com/EmergeTools/hackernews)
   -  `2026` `swift` 
   -  ☆`211` 
+- [Gem for Hacker News](https://github.com/Livinglist/Gem)
+  - [` App Store`](https://apps.apple.com/app/z-combinator-for-hacker-news/id1638242818) <a href='https://github.com/Livinglist/Gem/blob/main/Resources/Screenshots/iphone-1.png?raw=true'>`Screenshot 1`</a>  <a href='https://github.com/Livinglist/Gem/blob/main/Resources/Screenshots/iphone-2.png?raw=true'>`Screenshot 2`</a>  <a href='https://github.com/Livinglist/Gem/blob/main/Resources/Screenshots/iphone-3.png?raw=true'>`Screenshot 3`</a>  <a href='https://github.com/Livinglist/Gem/blob/main/Resources/Screenshots/iphone-6.png?raw=true'>`Screenshot 4`</a> 
+  -  `2024` `swift` `swiftui` 
+  -  ☆`78` 
 - [Hacker News Multiplatform](https://github.com/rickwierenga/heartbeat-tutorials/tree/master/MultiplatformApp/)
   - `swift` `macos` 
 - [HackerNews](https://github.com/amitburst/HackerNews)
@@ -2431,10 +2435,6 @@ https://news.ycombinator.com/ — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/app/simple-reader-free-open-source/id1000995253) <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple118/v4/c7/31/95/c7319576-6210-9a93-8c03-5a84bc4626f3/mzl.unluhpnm.png/460x0w.jpg'>`Screenshot 1`</a>  <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple128/v4/b2/1b/56/b21b5672-08df-a48b-5c4b-43df00cabd08/mzl.dfznlxwe.png/460x0w.jpg'>`Screenshot 2`</a>  <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple128/v4/5d/ee/b8/5deeb8e3-0c14-793e-ba28-7a7591cb1a0f/mzl.okdygwvb.png/460x0w.jpg'>`Screenshot 3`</a> 
   -  `2018` `objc` 
   -  ☆`258` 
-- [Z Combinator for Hacker News](https://github.com/Livinglist/ZCombinator)
-  - [` App Store`](https://apps.apple.com/app/z-combinator-for-hacker-news/id1638242818) <a href='https://github.com/Livinglist/ZCombinator/blob/main/Resources/Screenshots/iphone-1.png'>`Screenshot 1`</a>  <a href='https://github.com/Livinglist/ZCombinator/blob/main/Resources/Screenshots/iphone-2.png'>`Screenshot 2`</a>  <a href='https://github.com/Livinglist/ZCombinator/blob/main/Resources/Screenshots/iphone-3.png'>`Screenshot 3`</a>  <a href='https://github.com/Livinglist/ZCombinator/blob/main/Resources/Screenshots/iphone-6.png'>`Screenshot 4`</a> 
-  -  `2024` `swift` `swiftui` 
-  -  ☆`78` 
 ### News API 
  
 https://newsapi.org/ — [back to top](#readme) 
@@ -4242,6 +4242,10 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
   -  <a href='https://fullmoon.app/images/app.png'>`Screenshot 1`</a> 
   -  `2025` `swift` `swiftui` `mlx` 
   -  ☆`2237` 
+- [Gem for Hacker News](https://github.com/Livinglist/Gem)
+  - [` App Store`](https://apps.apple.com/app/z-combinator-for-hacker-news/id1638242818) <a href='https://github.com/Livinglist/Gem/blob/main/Resources/Screenshots/iphone-1.png?raw=true'>`Screenshot 1`</a>  <a href='https://github.com/Livinglist/Gem/blob/main/Resources/Screenshots/iphone-2.png?raw=true'>`Screenshot 2`</a>  <a href='https://github.com/Livinglist/Gem/blob/main/Resources/Screenshots/iphone-3.png?raw=true'>`Screenshot 3`</a>  <a href='https://github.com/Livinglist/Gem/blob/main/Resources/Screenshots/iphone-6.png?raw=true'>`Screenshot 4`</a> 
+  -  `2024` `swift` `swiftui` 
+  -  ☆`78` 
 - [GitHub User Search](https://github.com/ra1028/SwiftUI-Combine)
   -  <a href='https://github.com/ra1028/SwiftUI-Combine/raw/master/assets/sample.png'>`Screenshot 1`</a> 
   -  `2019` `swift` `swiftui` `combine` 
@@ -4620,10 +4624,6 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/app/xkcdy/id1520259318) <a href='https://user-images.githubusercontent.com/4723115/128615800-e136ba1b-6c14-4aae-ac0e-59fa9b382b4b.png'>`Screenshot 1`</a> 
   -  `2024` `iphone` `ipad` 
   -  ☆`44` 
-- [Z Combinator for Hacker News](https://github.com/Livinglist/ZCombinator)
-  - [` App Store`](https://apps.apple.com/app/z-combinator-for-hacker-news/id1638242818) <a href='https://github.com/Livinglist/ZCombinator/blob/main/Resources/Screenshots/iphone-1.png'>`Screenshot 1`</a>  <a href='https://github.com/Livinglist/ZCombinator/blob/main/Resources/Screenshots/iphone-2.png'>`Screenshot 2`</a>  <a href='https://github.com/Livinglist/ZCombinator/blob/main/Resources/Screenshots/iphone-3.png'>`Screenshot 3`</a>  <a href='https://github.com/Livinglist/ZCombinator/blob/main/Resources/Screenshots/iphone-6.png'>`Screenshot 4`</a> 
-  -  `2024` `swift` `swiftui` 
-  -  ☆`78` 
 ### VIPER 
  
 https://www.objc.io/issues/13-architecture/viper/ — [back to top](#readme) 
