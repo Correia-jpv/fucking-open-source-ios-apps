@@ -685,6 +685,7 @@ This is an archive of the [main list](https://github.com/dkhamsing/open-source-i
 - [Toilet Radar Paris](https://github.com/IvanBogdantsev/Toilet-Radar-Paris)
 - [tootbot](https://github.com/tootbot/tootbot)
 - [ToThePenny](https://github.com/ivan-magda/ToThePenny)
+- [Tourism Demo](https://github.com/bluemix/tourism-demo)
 - [tpg offline](https://github.com/tpgoffline/tpg-offline-iOS)
 - [Tracker 4 Compassion](https://github.com/fokkezb/tracker)
 - [Transcription Helper](https://github.com/novinfard/TranscriptionHelper)
