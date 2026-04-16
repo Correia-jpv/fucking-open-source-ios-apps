@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1648-green.svg) ![](https://img.shields.io/badge/Updated-April%2015,%202026-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1648-green.svg) ![](https://img.shields.io/badge/Updated-April%2016,%202026-lightgrey.svg)
 
 Jump to
 
@@ -3170,10 +3170,6 @@ https://joinmastodon.org — [back to top](#readme)
   -  <a href='https://github.com/Themoji/themoji.me/blob/gh-pages/ThemojiIdea.jpg?raw=true'>`Screenshot 1`</a> 
   -  `2023` `swift` 
   -  ☆`41` 
-- [Tourism Demo](https://github.com/bluemix/tourism-demo): Backed by Redux, shows animations, internationalization (i18n), ClipPath, fonts & more
-  -  <a href='https://github.com/bluemix/Tourism-Demo/raw/master/art/flutter-tourism-demo-400x300.gif'>`Screenshot 1`</a> 
-  -  `2018` `flutter` `dart` `redux` 
-  -  ☆`309` 
 - [Travel Guide](https://github.com/Ivaskuu/travel-guide_app)
   -  <a href='https://github.com/Ivaskuu/travel-guide_app/raw/master/screenshots/flutter_02.png'>`Screenshot 1`</a> 
   -  `2018` `flutter` 
@@ -3718,10 +3714,6 @@ https://flutter.dev — [back to top](#readme)
 - [Toughest](https://github.com/MDSADABWASIM/Toughest)
   -  `2025` `flutter` 
   -  ☆`274` 
-- [Tourism Demo](https://github.com/bluemix/tourism-demo): Backed by Redux, shows animations, internationalization (i18n), ClipPath, fonts & more
-  -  <a href='https://github.com/bluemix/Tourism-Demo/raw/master/art/flutter-tourism-demo-400x300.gif'>`Screenshot 1`</a> 
-  -  `2018` `flutter` `dart` `redux` 
-  -  ☆`309` 
 - [Trace](https://github.com/trentpiercy/trace): Modern crypto Portfolio & market explorer
   -  `2023` `flutter` `dart` 
   -  ☆`1147` 
