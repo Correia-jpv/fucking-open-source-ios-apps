@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1648-green.svg) ![](https://img.shields.io/badge/Updated-April%2016,%202026-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1648-green.svg) ![](https://img.shields.io/badge/Updated-April%2017,%202026-lightgrey.svg)
 
 Jump to
 
@@ -833,10 +833,6 @@ Jump to
   -  <a href='https://a3.mzstatic.com/us/r30/Purple127/v4/6d/82/6b/6d826be2-2f68-495c-0ba1-86d3da548287/screen696x696.jpeg'>`Screenshot 1`</a>  <a href='https://a4.mzstatic.com/us/r30/Purple117/v4/1c/14/83/1c148311-bbee-ff46-6b97-1d109a0213b4/screen696x696.jpeg'>`Screenshot 2`</a> 
   -  `2024` `react-native` 
   -  ☆`4765` 
-- [GitTime](https://github.com/87kangsw/GitTime): Show your GitHub contributions and activities
-  - [` App Store`](https://apps.apple.com/app/id1469013856) <a href='https://raw.githubusercontent.com/87kangsw/resume/master/images/gittime.png'>`Screenshot 1`</a> 
-  -  `2025` `swift, reactorkit, rxswift` `moya` 
-  -  ☆`75` 
 - [GitTrends](https://github.com/TheCodeTraveler/GitTrends): Track Repo Clones and Views
   - [` App Store`](https://apps.apple.com/app/gittrends-github-insights/id1500300399) <a href='https://user-images.githubusercontent.com/13558917/81881433-02c57b00-9545-11ea-920c-27b5b54f19c1.gif'>`Screenshot 1`</a> 
   -  `2026` `csharp` 
