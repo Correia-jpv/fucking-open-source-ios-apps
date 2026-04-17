@@ -4,7 +4,7 @@
 ⚠️ This README is generated, please do not update. To contribute, make changes to contents.json ⚠️ 
  https://github.com/dkhamsing/open-source-ios-apps -->
 
-List of **323** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
+List of **322** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
 
 
 
@@ -409,10 +409,6 @@ Jump to
   - [` App Store`](https://apps.apple.com/app/gisthub/id1660465260) <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/89053471-20aa-4ab7-ab5a-ecf34c372093'>`Screenshot 1`</a> 
   -  `2024` `swift` `swiftui` `asyncswift` 
   -  ☆`152` 
-- [GitTime](https://github.com/87kangsw/GitTime): Show your GitHub contributions and activities
-  - [` App Store`](https://apps.apple.com/app/id1469013856) <a href='https://raw.githubusercontent.com/87kangsw/resume/master/images/gittime.png'>`Screenshot 1`</a> 
-  -  `2025` `swift, reactorkit, rxswift` `moya` 
-  -  ☆`75` 
 - [GitTrends](https://github.com/TheCodeTraveler/GitTrends): Track Repo Clones and Views
   - [` App Store`](https://apps.apple.com/app/gittrends-github-insights/id1500300399) <a href='https://user-images.githubusercontent.com/13558917/81881433-02c57b00-9545-11ea-920c-27b5b54f19c1.gif'>`Screenshot 1`</a> 
   -  `2026` `csharp` 
