@@ -34252,6 +34252,27 @@
       "suggested_by": "@marcusraitner",
       "stars": 12,
       "updated": "2026-05-21 14:35:28 UTC"
+    },
+    {
+      "title": "HealthSync",
+      "category-ids": [
+        "health",
+        "swiftui"
+      ],
+      "description": "Sync selected Apple Health data to a private backend API",
+      "source": "https://github.com/megabyte0x/healthykit",
+      "homepage": "https://web-megabytes-projects.vercel.app/apple-health-app-sync",
+      "screenshots": [
+        "https://raw.githubusercontent.com/megabyte0x/healthykit/main/docs/assets/healthsync-onboarding.png"
+      ],
+      "tags": [
+        "swift",
+        "swiftui",
+        "healthkit",
+        "fastapi"
+      ],
+      "date_added": "Jun 5 2026",
+      "suggested_by": "@megabyte0x"
     }
   ]
 }
